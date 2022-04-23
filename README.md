@@ -3,3 +3,14 @@ https://github.com/HowieYuan/shiro/tree/master/shiroSimple
 # [二. shiro + springBoot 整合 JWT](https://github.com/HowieYuan/Shiro-SpringBoot/blob/master/shiro%20%2B%20springBoot%20%E6%95%B4%E5%90%88%20JWT.md)
 https://github.com/HowieYuan/shiro/tree/master/shiroJWT
 # springboot-jwt-shiro
+
+
+
+
+
+
+
+2022_04_23_12_36
+
+# springboot security -> springboot security+ jwt->shiro ->shiro+jwt
+
